@@ -1,6 +1,6 @@
 # cooking-golang
 
-This repository for collect and classify golang open project
+This repository for collect and classify golang with open project
 
 这是一个收集各种golang技巧的书籍，目前先写中文部分
 
